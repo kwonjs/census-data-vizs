@@ -7,9 +7,9 @@ _Much of the data sourced is from the 2017 American Community Survey._
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/FoodStampsSNAPStatsbyCounty/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1260' height = '900' scrolling='yes' ></iframe>    
 
-### Statistics on health insurance coverage
+### Statistics on health insurance coverage (2017)
 
-#### Health insurance coverage by sex & age group (2017)
+#### Health insurance coverage by sex & age group
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/ofpopulationwhealthinsurancecoveragebyagesexandcountyin2017/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1260' height = '900' scrolling='yes' ></iframe>   
 
