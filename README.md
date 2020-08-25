@@ -1,5 +1,5 @@
-# Visualizing Census Data
-## Visualizations I created as part of the 2019 Data Discovery Summer Program
+# Visualizing Census Data/Census-Related Data
+## Created during the 2019 [Data Discovery Summer Program](https://data.berkeley.edu/research/discovery-program-home)
 
 _These visualizations were created using American Community Survey data._
 
