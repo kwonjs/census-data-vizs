@@ -30,6 +30,8 @@ This project was done before the COVID-19 pandemic. As of August 2020, the admin
 
 #### Statistics on _public_ health insurance coverage
 
+The majority of individuals in the U.S. who are insured have private insurance. Public health insurance coverage includes programs like Medicare and Medicaid. **Medicaid**, a program originally designed to cover womxn and children, covers services including (but not limited to) hospital care, nursing home care, physician care, lab & x-ray services, immunizations & preventive medicine for kids, and family planning services for groups such as low-income (below federal poverty level) families, low-income elderly or disabled residents who receive Supplemental Security Income, and pregnant folks. **Medicare** provides health insurance coverage for senior Social Security-eligible citizens 65+ years of age or folks who are disabled, have end stage renal disease, or ALS/Lou Gehrig's disease. 
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/PublicHealthInsuranceCoverageStatsbyCounty/healthinsmedicaremedicaid?:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '860' scrolling='yes' ></iframe>  
 
 
