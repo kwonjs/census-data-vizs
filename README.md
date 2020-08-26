@@ -38,3 +38,10 @@ Note on the coloring schemes: In the "Medicaid vs. Medicare coverage, by county 
 * Region 2, the Midwest (colored YELLOW), encompasses East North Central (Illinois, Indiana, Michigan, Ohio, and Wisconsin) and West North Central (Iowa, Kansas, Minnesota, Missouri, Nebraska, North Dakota, and South Dakota). 
 * Region 3, the South (colored RED), covers the South Atlantic (Delaware, Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, District of Columbia, and West Virginia), the East South Central (Alabama, Kentucky, Mississippi, and Tennessee), and the West South Central (Arkansas, Louisiana, Oklahoma, and Texas).
 * Region 4, the West (colored GREEN), contains the Mountain (Arizona, Colorado, Idaho, Montana, Nevada, New Mexico, Utah, and Wyoming) and the Pacific regions (Alaska, California, Hawaii, Oregon, and Washington).
+
+## Census-related data: Income inequalities across the U.S. in 2015 (Economic Policy Institute)
+
+Data from the decennial census and other surveys like the U.S. Census Bureau's American Community Survey can also highlight **income inequality**, a phenomenon that drives wealth inequality and, on a national scale, perpetuates the widening gaps in coverage related to health insurance or food assistance. 
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Ratiooftop1incometobottom99incomeforallU_S_countiesin2015/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '860' scrolling='yes' ></iframe>  
+_[Click here](https://www.epi.org/publication/the-new-gilded-age-income-inequality-in-the-u-s-by-state-metropolitan-area-and-county/#epi-toc-14) to see the data source (go to "Appendix Table B2"). The Economic Policy Insitute also created [an interactive factsheet](https://www.epi.org/multimedia/unequal-states-of-america/#/California) where users can search up their state's income inequality levels._
