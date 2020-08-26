@@ -1,6 +1,6 @@
 # Visualizing Census Data/Census-Related Data
 
-_Much of the data sourced is from the 2017 American Community Survey._ 
+_**DISCLAIMER**: Much of the data sourced is from the 2017 American Community Survey. At the time I conducted this mini-project, I wasn't aware that the census data I was using was based on 1-year and 5-year **estimates** with associated margins of error, calculated using [custom U.S. Census Bureau projections](https://www.census.gov/content/dam/Census/library/publications/2018/acs/acs_general_handbook_2018_ch08.pdf). I acknowledge that I should have been much more cautious in presenting this data and extrapolating any policy-influencing conclusions from the visualizations._ 
 
 These visualizations were created as an independently-led project I did during the 2019 [Data Discovery Summer Program](https://data.berkeley.edu/research/discovery-program-home). That summer, the research cohort focused on developing ways to raise awareness about the importance of the decennial U.S. Census. I decided to create visualizations using the most recent census and census-related data at the time that showed users how they could look up different statistics related to SNAP - the Supplemental Nutrition Assistance Program - and health insurance coverage as a way to gauge how the counties or states they lived in compared to the rest of the U.S. 
 
@@ -16,7 +16,7 @@ With [just under 40 million people](https://www.cbpp.org/research/food-assistanc
 
 This project was done before the COVID-19 pandemic. As of August 2020, the administration has temporarily stopped the implementation of SNAP work-related eligibility restrictions and has issued waivers to all states. The [U.S. Dept. of Agriculture](https://fns-prod.azureedge.net/sites/default/files/resource-files/CA-SNAP-COV-EmergencyAllotmentsExtension5-Acknowledged.pdf) approved the suspension of these restrictions up until September as part of the "Families First Coronavirus Response Act of 2020," stating that "states that have already received Food and Nutrition Service approval for Emergency Allottment (EA) issuance in March and April, or April and May" by having confirmed COVID-19 cases and being impacted economically by pandemic-related mandates "are approved to continue issuing EA benefits each month." 
 
-*** I usually use identity-first rather than person-first language when discussing disability. [Click here](https://thebodyisnotanapology.com/magazine/i-am-disabled-on-identity-first-versus-people-first-language/) to read one article that explains this standpoint. 
+*** *I usually use identity-first rather than person-first language when discussing disability. [Click here](https://thebodyisnotanapology.com/magazine/i-am-disabled-on-identity-first-versus-people-first-language/) to read one article that explains this standpoint.* 
 
 ### Statistics on health insurance coverage (2017)
 
@@ -33,9 +33,8 @@ This project was done before the COVID-19 pandemic. As of August 2020, the admin
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/PublicHealthInsuranceCoverageStatsbyCounty/healthinsmedicaremedicaid?:embed=yes&:display_count=yes&:showVizHome=no" width = '900' height = '860' scrolling='yes' ></iframe>  
 
 
-Note: I tried two different coloring schemes in the "Medicaid vs. Medicare coverage, by county (sorted by percent (%) public coverage of total population)" visualization. The **bottom** coloring scheme is based off of U.S. Census Bureau-designated regions. 
+Note on the coloring schemes: In the "Medicaid vs. Medicare coverage, by county (sorted by percent (%) public coverage of total population)" visualization, the **bottom** coloring scheme is based off of U.S. Census Bureau-designated regions. 
 * Region 1, the Northeast (colored BLUE), encompasses New England (Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont) and the Mid-Atlantic (New Jersey, New York, and Pennsylvania. 
 * Region 2, the Midwest (colored YELLOW), encompasses East North Central (Illinois, Indiana, Michigan, Ohio, and Wisconsin) and West North Central (Iowa, Kansas, Minnesota, Missouri, Nebraska, North Dakota, and South Dakota). 
 * Region 3, the South (colored RED), covers the South Atlantic (Delaware, Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, District of Columbia, and West Virginia), the East South Central (Alabama, Kentucky, Mississippi, and Tennessee), and the West South Central (Arkansas, Louisiana, Oklahoma, and Texas).
 * Region 4, the West (colored GREEN), contains the Mountain (Arizona, Colorado, Idaho, Montana, Nevada, New Mexico, Utah, and Wyoming) and the Pacific regions (Alaska, California, Hawaii, Oregon, and Washington).
-
